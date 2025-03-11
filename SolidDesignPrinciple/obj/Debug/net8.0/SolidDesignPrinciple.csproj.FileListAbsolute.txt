@@ -1,0 +1,15 @@
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\bin\Debug\net8.0\SolidDesignPrinciple.exe
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\bin\Debug\net8.0\SolidDesignPrinciple.deps.json
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\bin\Debug\net8.0\SolidDesignPrinciple.runtimeconfig.json
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\bin\Debug\net8.0\SolidDesignPrinciple.dll
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\bin\Debug\net8.0\SolidDesignPrinciple.pdb
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.AssemblyInfoInputs.cache
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.AssemblyInfo.cs
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.csproj.CoreCompileInputs.cache
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.sourcelink.json
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.dll
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\refint\SolidDesignPrinciple.dll
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.pdb
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\SolidDesignPrinciple.genruntimeconfig.cache
+C:\Gahan\Practice Program\SolidDesignPrinciple\SolidDesignPrinciple\obj\Debug\net8.0\ref\SolidDesignPrinciple.dll
