@@ -3,8 +3,72 @@
   "WorkspaceRootPath": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\dependecyinversionprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\dependecyinversionprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\dependecyinversionprinciple\\wrongsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\dependecyinversionprinciple\\wrongsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\dependecyinversionprinciple\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\dependecyinversionprinciple\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\dependecyinversionprinciple\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\dependecyinversionprinciple\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\dependecyinversionprinciple\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\dependecyinversionprinciple\\paypalpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\interfacesegregationprinciple\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\interfacesegregationprinciple\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\soliddesignprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\soliddesignprinciple.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\interfacesegregationprinciple\\giftcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\interfacesegregationprinciple\\giftcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\interfacesegregationprinciple\\iauthenticatedpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\interfacesegregationprinciple\\iauthenticatedpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\interfacesegregationprinciple\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\interfacesegregationprinciple\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\interfacesegregationprinciple\\wrongsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\interfacesegregationprinciple\\wrongsolution.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\liskovsubstitutionprinciple\\giftcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\liskovsubstitutionprinciple\\giftcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\liskovsubstitutionprinciple\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\liskovsubstitutionprinciple\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\liskovsubstitutionprinciple\\authenticatedpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\liskovsubstitutionprinciple\\authenticatedpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\liskovsubstitutionprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\liskovsubstitutionprinciple\\paymentprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\liskovsubstitutionprinciple\\wrongimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|solutionrelative:soliddesignprinciple\\liskovsubstitutionprinciple\\wrongimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9FE656C2-E8D1-4A59-AAB8-A019CE10420B}|SolidDesignPrinciple\\SolidDesignPrinciple.csproj|c:\\gahan\\practice program\\soliddesignprinciple\\soliddesignprinciple\\openclosedprinciple\\bitcoinpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,24 +126,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BitcoinPayment.cs",
-              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
-              "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
-              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
-              "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\DependecyInversionPrinciple\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\PaymentProcessor.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\DependecyInversionPrinciple\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:25:19.423Z",
+              "WhenOpened": "2025-03-11T14:18:52.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\IPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\DependecyInversionPrinciple\\IPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\IPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\DependecyInversionPrinciple\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:16:57.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PayPalPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\PayPalPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\DependecyInversionPrinciple\\PayPalPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\PayPalPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\DependecyInversionPrinciple\\PayPalPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:15:42.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\DependecyInversionPrinciple\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\CreditCardPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\DependecyInversionPrinciple\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:15:31.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WrongSolution.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\WrongSolution.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\DependecyInversionPrinciple\\WrongSolution.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\DependecyInversionPrinciple\\WrongSolution.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\DependecyInversionPrinciple\\WrongSolution.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:11:33.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GiftCardPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\GiftCardPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\GiftCardPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\GiftCardPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\GiftCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T14:00:26.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\CreditCardPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAvwAQAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:59:48.319Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\Program.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\Program.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\Program.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:53:45.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAuthenticatedPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IAuthenticatedPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IAuthenticatedPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IAuthenticatedPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IAuthenticatedPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:59:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\IPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:59:03.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WrongSolution.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\WrongSolution.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\WrongSolution.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\InterfaceSegregationPrinciple\\WrongSolution.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\InterfaceSegregationPrinciple\\WrongSolution.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:58:06.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SolidDesignPrinciple",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
+              "RelativeToolTip": "SolidDesignPrinciple\\SolidDesignPrinciple.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-11T13:57:28.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GiftCardPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\GiftCardPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\GiftCardPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\GiftCardPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\GiftCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:54:09.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\CreditCardPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\CreditCardPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:53:30.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticatedPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\AuthenticatedPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\AuthenticatedPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\AuthenticatedPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\AuthenticatedPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:51:12.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentProcessor.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\PaymentProcessor.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\PaymentProcessor.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\PaymentProcessor.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\PaymentProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:49:59.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WrongImplementation.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\WrongImplementation.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\WrongImplementation.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\WrongImplementation.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\LiskovSubstitutionPrinciple\\WrongImplementation.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:47:21.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "PayPalPayment.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\PayPalPayment.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\PayPalPayment.cs",
@@ -87,12 +359,23 @@
               "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\PayPalPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:24:22.085Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:24:22.085Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 17,
+              "Title": "BitcoinPayment.cs",
+              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
+              "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
+              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
+              "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\BitcoinPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T13:25:19.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "CreditCardPayment.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\CreditCardPayment.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\CreditCardPayment.cs",
@@ -100,12 +383,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\CreditCardPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:24:02.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:24:02.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 20,
               "Title": "NewPaymentProcessor.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\NewPaymentProcessor.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\NewPaymentProcessor.cs",
@@ -113,12 +395,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\NewPaymentProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:23:27.284Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:23:27.284Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "IPayment.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\IPayment.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\IPayment.cs",
@@ -126,12 +407,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\IPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:22:39.456Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:22:39.456Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "PaymentProcessor.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\OpenClosedPrinciple\\PaymentProcessor.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\OpenClosedPrinciple\\PaymentProcessor.cs",
@@ -139,12 +419,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\OpenClosedPrinciple\\PaymentProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:22:12.042Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:22:12.042Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 26,
               "Title": "PaymentLogger.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PaymentLogger.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PaymentLogger.cs",
@@ -152,25 +431,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PaymentLogger.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:05:48.441Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:05:48.441Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\Program.cs",
-              "RelativeDocumentMoniker": "SolidDesignPrinciple\\Program.cs",
-              "ToolTip": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\Program.cs",
-              "RelativeToolTip": "SolidDesignPrinciple\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAqwCMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:53:45.088Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 27,
               "Title": "PayPalPayment.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PayPalPayment.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PayPalPayment.cs",
@@ -178,12 +443,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PayPalPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:05:18.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:05:18.951Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 24,
               "Title": "CreditCardPayment.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SingleResponsiblityPrinciple\\CreditCardPayment.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\CreditCardPayment.cs",
@@ -191,12 +455,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\CreditCardPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:04:12.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:04:12.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "IPayment.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SingleResponsiblityPrinciple\\IPayment.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\IPayment.cs",
@@ -204,12 +467,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\IPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:02:57.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:02:57.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 25,
               "Title": "NewPaymentProcessor.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SingleResponsiblityPrinciple\\NewPaymentProcessor.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\NewPaymentProcessor.cs",
@@ -217,12 +479,11 @@
               "RelativeToolTip": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\NewPaymentProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T13:02:38.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T13:02:38.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 23,
               "Title": "PaymentProcessor.cs",
               "DocumentMoniker": "C:\\Gahan\\Practice Program\\SolidDesignPrinciple\\SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PaymentProcessor.cs",
               "RelativeDocumentMoniker": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PaymentProcessor.cs",
@@ -230,8 +491,7 @@
               "RelativeToolTip": "SolidDesignPrinciple\\SingleResponsiblityPrinciple\\PaymentProcessor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T12:55:35.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-11T12:55:35.583Z"
             }
           ]
         }
